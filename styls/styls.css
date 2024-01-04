@@ -1,5 +1,30 @@
 .test{
    
-    height: 400px;
-background-image: url('images/chand.jpg');
+    height: px;
+text-align: center;
+
+
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 3px solid red;
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 30px;
+}
+.tost{
+    color: blue;
+}
+.hi{
+    text-align: left;
+}
+h5{
+    display: inline;
+   d
 }
